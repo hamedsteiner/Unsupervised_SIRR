@@ -1,0 +1,12 @@
+torch
+torchvision
+ipython
+numpy
+pyyaml
+mkl
+setuptools
+cffi
+matplotlib
+scikit-image
+sk-video
+

@@ -33,8 +33,10 @@ Reflections often degrade the quality of images by obstructing the background sc
 
 
 
-3. After setting up the data and the model parameters in the separator, estimated background and reflections are visible through the output directory.
-
+3. After setting up the data and the model parameters in the separator (the model), estimated background and reflections are visible through the output directory.
+	```
+    python separator3_2.py 
+    ```
 
 
 4. Using "mask" python script, regions of reflection are achieved from the estimated layers from the previous steps.
